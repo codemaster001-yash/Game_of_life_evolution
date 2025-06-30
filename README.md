@@ -32,6 +32,8 @@
     * **Add Cells:** Click on any empty space on the grid to place a live cell of the selected color.
     * **Draw Multiple Cells:** Click and drag your mouse across the grid to quickly draw multiple cells.
     * **Remove Cells:** Clicking on an existing live cell will toggle it off (make it dead).
+      
+#TIP : **Try differnt shapes and sketches on the grid for more fun. Maybe a spaceship, a rocket or a kite.**
 
 3.  **Controlling the Simulation:**
     * **Start/Pause:** The large central button at the bottom toggles the simulation.
